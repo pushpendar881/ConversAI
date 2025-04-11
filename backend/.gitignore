@@ -1,0 +1,33 @@
+# Node modules
+node_modules/
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+
+# Environment variables
+.env
+
+# OS-related
+.DS_Store
+Thumbs.db
+
+# Runtime files
+pids
+*.pid
+*.seed
+
+# IDEs/editors
+.vscode/
+.idea/
+
+# Optional npm cache directory
+.npm/
+
+# Build output
+dist/
+build/
+
+# Uploaded files (e.g. for multer)
+uploads/
